@@ -1,3 +1,5 @@
-{
-    "mobile": "mobile data is on"
-}
+[
+  {
+    "server": "coder"
+  }
+]
